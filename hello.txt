@@ -1,3 +1,4 @@
 Hello,Git 
 Welcome to Git Version Control! 
 This is a new feature! 
+"This is a newly added feature" 
